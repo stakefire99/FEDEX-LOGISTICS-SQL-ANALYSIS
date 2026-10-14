@@ -49,4 +49,4 @@ All queries are in [`fedex_analysis.sql`](fedex_analysis.sql), organised in 7 ta
 
 ## 👩‍💻 Author
 **Lakshita** · MCA (Data Analytics)
-[GitHub](https://github.com/stakefire99) · [LinkedIn](PASTE-YOUR-CORRECT-LINKEDIN-URL-HERE)
+[GitHub](https://github.com/stakefire99) · [LinkedIn](https://www.linkedin.com/in/lakshita-047439224/)
